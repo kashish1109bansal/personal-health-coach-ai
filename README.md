@@ -15,4 +15,5 @@ This is a Streamlit-based AI application that monitors your health data (sleep &
 pip install -r requirements.txt
 git clone
 https://personal-health-coach-ai-zks9xluaj2cxmk83qzzos7.streamlit.app
-
+## live demo
+[click here to open](https://personal-health-coach-ai-zks9xluaj2cxmk83qzzos7.streamlit.app)
