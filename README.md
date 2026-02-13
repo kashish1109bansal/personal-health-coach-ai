@@ -13,3 +13,6 @@ This is a Streamlit-based AI application that monitors your health data (sleep &
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+git clone
+https://personal-health-coach-ai-zks9xluaj2cxmk83qzzos7.streamlit.app
+
