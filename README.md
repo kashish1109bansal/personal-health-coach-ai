@@ -10,7 +10,7 @@ Streamlit UI interface
 Python
 Streamlit
 AI Agent
-📊 How it Works
+📊 How it Works ?
 User enters sleep hours and steps.
 System compresses data.
 AI generates summary.
